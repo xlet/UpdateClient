@@ -1,0 +1,12 @@
+*.exe
+*.dll
+/Debug
+/Release
+*.sdf
+/lib
+/DuiLib/Build
+/HtttpDownload/Debug
+/HtttpDownload/Release
+/Update/Debug
+/Update/Release
+
